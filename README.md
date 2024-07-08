@@ -66,7 +66,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/SophiaTrick/SophiaTrick/output/snake.svg" alt="Snake animation" />
+<img src="https://tibiagirls.com.mx/wp-content/uploads/2023/03/tumblr_ca1426a2c6901950b769b23a4783f714_00f2998f_640.gif" alt="cozy pc user" />
 
 ###
 
